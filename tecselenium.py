@@ -1,5 +1,4 @@
 import json
-from lxml import html
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
